@@ -1,0 +1,4 @@
+echo "Bite me"
+echo "This suxx"
+
+if this!=that printf("Go away\n");
